@@ -1,4 +1,5 @@
 # Beniamino01
+<!DOCTYPE HTML>
 <html>
  <head>
     Ciao
