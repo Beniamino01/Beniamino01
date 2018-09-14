@@ -4,6 +4,6 @@
     Ciao
  </head>
  <body>
- questa è la mia pagina html
+ questa è una semplice pagina
  </body>
  </html>
